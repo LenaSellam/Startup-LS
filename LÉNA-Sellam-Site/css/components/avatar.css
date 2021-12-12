@@ -1,0 +1,9 @@
+.avatar-round {
+	background: #c4b2b2;
+  	padding: 60px;
+ 	border-radius: 75px;
+  	box-shadow: 0 15px 35px rgba(50, 50, 93, 0.4);
+  	width: 200px;
+  	margin: 12px auto;
+  	position: sticky;
+ }

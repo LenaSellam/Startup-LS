@@ -1,0 +1,88 @@
+.container {
+	width: 700px;
+	padding: 22px;
+	margin: 0 auto;
+	border-radius: 8px;
+}
+
+
+
+@media(max-width: 760px) {
+	.container {
+		width: 500px;
+	}
+}
+
+@media(max-width :500px) {
+	.container{
+		width: 350px;
+	}
+}
+
+.container h2 {
+  flex-grow: 1;
+  margin-left: 100px;
+  font-family: Impact, fantasy;
+  color: #80ada1;
+  font-weight: 700;
+  text-align: center;
+}
+
+.container a {
+  font-family: Impact, fantasy;
+  font-weight: 100;
+  margin-right: 20px;
+  color: #80ada1;
+  text-align:justify-all;
+}
+
+.container p{
+  font-family: Loro;
+  font-weight: 400;
+  margin-right: 20px;
+  color: black;
+  text-align: center;
+}
+.container p {
+	font-size: 20px;
+	margin-bottom: 40px;
+	color: whitesmoke;
+	font-family: Loro;	
+	color: #eae7c7;
+	margin-left: 0%;
+}
+
+.container p {
+  background: #80ada1;
+  padding: 20px;
+  border-radius: 75px;
+  box-shadow: 0 15px 35px rgba(50, 50, 93, 0.4);
+  width: 700px;
+  margin: 7px auto;
+}
+
+
+.container h1 {
+	font-family: 'Loro', sans-serif;
+	font-weight: 100px;
+	text-decoration: none;
+	color: #80ada1;
+	font-size: 20px;
+	padding: 12px 32px;
+	background-color: #eae7c7;
+	border-radius: 8px;
+}
+
+.container h3 {
+	font-family: 'Loro', sans-serif;
+	font-weight: 400;
+	text-decoration: none;
+	color: #80ada1;
+	font-size: 20px;
+	padding: 12px 32px;
+	background-color: #eae7c7;
+	border-radius: 8px;
+}
+
+
+

@@ -1,0 +1,28 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-grow: 1;
+	padding: 24px;
+	background-color: #c4b2b2;
+}
+.navbar a {
+	font-family: 'Loro', sans-serif;
+	font-weight: 400;
+	text-decoration: none;
+	color: #80ada1;
+	font-size: 20px;
+	padding: 12px 32px;
+	background-color: #eae7c7;
+	border-radius: 8px;
+}
+
+.navbar a:hover {
+	font-size: 24px;
+	padding: 8px 28px;
+	background-color: #54b2c9;
+	border-radius: 8px;
+	color: white;
+	transition: 0.5s;
+}
+
